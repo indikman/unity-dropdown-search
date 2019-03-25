@@ -12,6 +12,7 @@ public class DropDownSearchItem : MonoBehaviour
     private string name;
     private string data;
 
+
     public void setData(string name, string data){
         this.name = name;
         this.data = data;
